@@ -1,0 +1,24 @@
+.doctor-details {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .doctor-details img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .doctor-details h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .doctor-details p {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
